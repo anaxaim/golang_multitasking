@@ -1,3 +1,5 @@
-# golang_multitasking
-
-goroutines, channels, composition, context
+## Multitasking 
+- goroutines
+- channels
+- composition
+- context
