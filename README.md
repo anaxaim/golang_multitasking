@@ -1,3 +1,3 @@
 # golang_multitasking
 
-Горутины, канала, композиция, контекст
+goroutines, channels, composition, context
