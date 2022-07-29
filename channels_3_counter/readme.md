@@ -1,0 +1,3 @@
+- start the first goroutine that goes through the words and sends them to the pending channel ("reader")
+- start the second goroutine which reads from pending, counts the number of digits in each word and writes it to counted channel (counter)
+- in func read the values from the channel and fill in stats
